@@ -1,6 +1,5 @@
 import Link from "next/link"
 import { ModeToggle } from "@/components/mode-toggle/mode-toggle.component";
-import { TypewriterEffect } from '../../.history/src/components/ui/typewriter-effect_20240410171601';
 
 export default function Header() {
   return (
